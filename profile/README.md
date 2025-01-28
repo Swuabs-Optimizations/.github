@@ -2,10 +2,7 @@
 Swuabs Optimizations delivers precision-engineered network enhancements through an integrated system of registry modifications and proxy technologies. By fine-tuning TCP parameters and connection pathways, we've achieved significant latency reduction and connection stability improvements. Initially perfected for Minecraft's Hypixel server, our framework is built to scale across gaming platforms. We offer optimized network routing and connection management, ensuring a responsive, stable gaming environment.
 
 
-# SwuabsProxy - Change Log
-
-Version 3.1 (January 28, 2025)
-================================
+# SwuabsProxy v3.1 - Changelog
 
 ## New Features:
 - Added CLI interface for managing proxy through terminal
